@@ -1,5 +1,6 @@
-# wiz-cli
-With this cli you can controll your wiz lights from the terminal or program.
+# Wiz-CLI
+With this CLI you can control your wiz lights from the terminal or program.
+
 # Sources
 
 - [Hacking Philips Wiz lights via command line](https://aleksandr.rogozin.us/blog/2021/8/13/hacking-philips-wiz-lights-via-command-line)
@@ -9,5 +10,5 @@ With this cli you can controll your wiz lights from the terminal or program.
 
 # Goals 
 
-- [ ] Create a cli that detects all wiz lights in the local network
-- [ ] a cli that is easy and quick to use
+- [ ] Create a CLI that detects all wiz lights in the local network
+- [ ] a CLI that is easy and quick to use
